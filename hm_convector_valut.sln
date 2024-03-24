@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hm_convector_valut", "hm_convector_valut\hm_convector_valut.csproj", "{9C015E1A-9FAD-4F45-B7AC-FE68DBDF2707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C015E1A-9FAD-4F45-B7AC-FE68DBDF2707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C015E1A-9FAD-4F45-B7AC-FE68DBDF2707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C015E1A-9FAD-4F45-B7AC-FE68DBDF2707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C015E1A-9FAD-4F45-B7AC-FE68DBDF2707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC00A3B9-D839-4839-BA5D-FDD346EC8126}
+	EndGlobalSection
+EndGlobal
